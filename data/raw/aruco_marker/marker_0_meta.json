@@ -1,0 +1,8 @@
+{
+  "marker_id": 0,
+  "dictionary": "DICT_4X4_50",
+  "side_px_in_file": 600,
+  "intended_side_mm": 150.0,
+  "note": "After printing, measure the actual printed side in mm and update 'measured_side_mm' below before using this marker for homography.",
+  "measured_side_mm": null
+}

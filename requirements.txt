@@ -1,0 +1,17 @@
+# Core
+numpy>=1.26
+opencv-contrib-python>=4.9   # includes cv2.aruco
+networkx>=3.2
+pandas>=2.2
+matplotlib>=3.8
+
+# Perception (hold detection/classification)
+ultralytics>=8.2             # YOLOv8/9
+
+# Web interface (built in Phase 3, declared now so the env doesn't need to change)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+
+# Image handling
+pillow>=10.3
